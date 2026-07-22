@@ -1,0 +1,12 @@
+# Python virtual environment
+.venv/
+
+# Dataset file should not be committed
+WA_Fn-UseC_-Telco-Customer-Churn.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
